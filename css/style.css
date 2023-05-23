@@ -1,0 +1,30 @@
+header {
+    background-color:#E6E6E6;
+    align:center;
+}
+
+h1{
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 29.64px;
+    text-align: center;
+}
+
+/* selector de clase */
+.tituloSeccion{
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 16.64px;
+}
+
+footer{
+    background-color:#005677;
+    text-align: center;
+}
+#foto{
+    text-align: center;
+}
